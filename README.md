@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ I am a Mechatronics Engineer graduated from UVM - 2023. 
+🔭 I am currently studying Software Engineering at Hybridge and Project Management at Google.
+😄 I love learning and facing new challenges every day.
