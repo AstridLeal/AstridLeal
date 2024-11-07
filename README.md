@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola! 👋
 
 <!--
 **AstridLeal/AstridLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ I am a Mechatronics Engineer graduated from UVM - 2023. 
-🔭 I am currently studying Software Engineering at Hybridge and Project Management at Google.
-😄 I love learning and facing new challenges every day.
+⚡ Soy ingeniera mecatrónica y actualmente me encuentro estudiando Ingeniería en Software. 
+
+😄 ¡Me encanta aprender!
